@@ -1,0 +1,10 @@
+font styles 
+poppins 400,700,500
+roboto 400
+color 
+
+orange background: #FD511A;
+green  background: #21B573;
+text color black background: #000000;
+font-family: 'Roboto', sans-serif;
+font-family: 'Poppins', sans-serif;

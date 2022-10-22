@@ -1,0 +1,278 @@
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+      /*header start*/
+
+      /*logo*/
+      .logo {
+        width: 165px;
+    }
+   .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0px 13px !important;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000 !important;
+   }
+
+   /*banner start*/
+
+   .b_img {
+      padding: 0 25px;
+  }
+  .b_text{
+   text-align: center;
+  }
+
+  .b_text h1 {
+  
+   font-size: 30px;
+   line-height: 50px;
+ }
+
+.b_text p {
+   margin-bottom: 22px;
+ }
+
+ /*feature content*/
+.feature {
+   padding-top: 40px;
+   padding-bottom: 0px;
+}
+.f_content {
+   margin-top: 20px;
+   padding:45px;
+ 
+}
+
+/*course start*/
+
+.course {
+   padding-top: 30px;
+}
+
+.cour_in {
+   margin: -10px 0;
+}
+
+.cor_content {
+  
+   padding: 15px 15px 14px 15px;
+   
+}
+.cor_h1 {
+   font-size: 20px;
+   
+}
+
+.li-p{
+   margin-right: 0rem !important;
+}
+
+.cor_fot_p { 
+   font-size: 15px;
+}
+
+
+.cor_content h4 {
+   font-size: 18px;
+  
+}
+
+/*testimonial*/
+
+.test_h1 {
+   font-size: 20px;
+   margin-bottom: -40px;
+}
+
+.test_content p {
+   margin-top: 35px;
+}
+
+.test_pic {
+
+   margin-left: -15px;
+}
+ 
+
+/*footer*/
+.copy{
+   margin-left: 20px;
+}
+
+}
+    
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /*header start*/
+     .menu ul li a {
+        margin-bottom: 10px;
+        padding: 0px 13px !important;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #000000 !important;
+       }
+
+       /*banner start*/
+   .b_img {
+      text-align: center;
+      padding: 0 25px;
+  }
+
+  .b_text{
+   text-align: center;
+  }
+
+  .b_text h1 {
+  
+   font-size: 33px;
+   line-height: 52px;
+  
+}
+
+/*feature content*/
+.feature {
+   padding-top: 40px;
+   padding-bottom: 25px;
+}
+.f_content {
+   margin-top: 20px;
+ 
+}
+
+/*course start*/
+
+.course {
+   padding-top: 30px;
+}
+
+.cour_in {
+   margin: -10px 0;
+}
+.cor_h1 {
+   font-size: 25px;
+   
+}
+
+.cor_content h4 {
+   font-size: 20px;
+  
+}
+
+/*testimonial*/
+.test_content p {
+   margin-top: 35px;
+}
+
+/*footer*/
+.copy{
+   margin-left: 60px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){ 
+   /*header start*/
+   .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0px 13px !important;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000 !important;
+   }
+
+   /*banner start*/
+   .b_img {
+      padding: 0 30px;
+  }
+
+  .b_text {
+   text-align: center;
+   padding: 40px;
+}
+
+/*feature content*/
+.feature {
+   padding-bottom: 10px;
+}
+.f_content {
+   margin-top: 20px;
+}
+
+/*course start*/
+
+.cor_content {
+   padding: 30px 30px 30px 30px;
+}
+
+.cour_in {
+   margin: 15px 0;
+}
+
+.cor_h1 {
+
+   font-size: 30px;
+ 
+   
+}
+
+/*tesimonial*/
+.test_content p {
+
+   margin-left: 20px;
+}
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /*feature part*/
+
+    .feature{
+      padding-bottom: 10px;
+    }
+    .f_content {
+      padding: 30px;
+      height: 250px;
+  }
+
+  /*course start*/
+
+
+
+  .cor_h1 {
+     font-size: 27px;
+ 
+}
+
+.li-p{
+   margin-right: 0rem !important;
+}
+
+.cor_content {
+   padding: 20px 10px 30px 10px;
+}
+    
+}
+/* Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+  
+    
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+   
+}
